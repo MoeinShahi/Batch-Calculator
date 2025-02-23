@@ -1,4 +1,6 @@
+![batch](https://github.com/user-attachments/assets/26416f77-f2d4-4979-9482-dff1343b059e)
 # Simple CLI Calculator - `calculator.bat`
+
 
 This is a simple **command-line interface (CLI)** calculator written in **Batch scripting**. The calculator prompts the user to enter two numbers and calculates their sum. It's designed to be a lightweight tool for performing addition interactively via the command line.
 
@@ -32,6 +34,6 @@ SET /P b=Enter another number!
 SET /A result=%a% + %b%
 ECHO The result of %a% + %b% is %result%
 PAUSE
-![batch](https://github.com/user-attachments/assets/34810836-3817-45e2-b461-13199cc8e668)
+
 
 
