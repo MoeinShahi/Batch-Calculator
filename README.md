@@ -32,5 +32,6 @@ SET /P b=Enter another number!
 SET /A result=%a% + %b%
 ECHO The result of %a% + %b% is %result%
 PAUSE
+![batch](https://github.com/user-attachments/assets/34810836-3817-45e2-b461-13199cc8e668)
 
-![image](https://github.com/user-attachments/assets/799e3d13-2faa-4da0-854e-c98982a36067)
+
